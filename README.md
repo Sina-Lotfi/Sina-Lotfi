@@ -24,7 +24,7 @@
 <Br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
-|![](https://img.shields.io/badge/Backend%20Development-brightgreen?style=for-the-badge)|
+|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|
   
 <Br>
 <hr>
