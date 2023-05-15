@@ -16,7 +16,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/sina-lotfi-51b275224" target="blank"><img align="center" src="https://img.shields.io/badge/Sina Lotfi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:sinalotfi531@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Sina-Lotfi/Sina-Lotfi" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sina-lotfi-51b275224" target="blank"><img align="center" src="https://img.shields.io/badge/Sina Lotfi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:sinalotfi531@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/sinalotfi531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Sina-Lotfi/Sina-Lotfi" target="blank"><img align="center" src="https://img.shields.io/badge/Sina-Lotfi?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -25,7 +25,7 @@
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|![](https://img.shields.io/badge/Backend%20Development-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Django%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
