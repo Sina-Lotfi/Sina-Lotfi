@@ -22,7 +22,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Skills I have! 🤸‍♂</h1>
+<h1 align='center'>Skills I have! 🤸‍♂</h1>
 <Br>
 |![](https://img.shields.io/badge/BackEnd%20Development-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/FrontEnd%20Development-red?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 <Br>
