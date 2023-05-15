@@ -26,7 +26,6 @@
 <Br>
   
 |![](https://img.shields.io/badge/BackEnd%20Development-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/FrontEnd%20Development-red?style=for-the-badge)|
-|---|---|---|---|---|
 |![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
   
