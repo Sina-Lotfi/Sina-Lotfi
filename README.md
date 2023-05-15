@@ -13,9 +13,9 @@
   
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h1>Get in Touch! 📬</h1>
 <Br>
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/sina-lotfi-51b275224" target="blank"><img align="center" src="https://img.shields.io/badge/Sina Lotfi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:sinalotfi531@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/sinalotfi531@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Sina-Lotfi/Sina-Lotfi" target="blank"><img align="center" src="https://img.shields.io/badge/Sina-Lotfi?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
@@ -42,7 +42,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sina-Lotfi&repo=Warehouse-management-system)](https://github.com/Sina-Lotfi/Warehouse-management-system)
 
 <Br>
 <hr>
