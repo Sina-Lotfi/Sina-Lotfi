@@ -33,9 +33,9 @@
 <h1>Tools I use! 🛠️</h1>
 <Br>
  
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Django&logoColor=white)|![](https://img.shields.io/badge/JavaScript-F7931E?style=for-the-badge&logo=JavaScript&logoColor=white)|![](https://img.shields.io/badge/Postgresql-D00000?style=for-the-badge&logo=Postgresql&logoColor=white)|![](https://img.shields.io/badge/HTML-F37626.svg?&style=for-the-badge&logo=HTML&logoColor=white)|
+|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/Django-FF6F00?style=for-the-badge&logo=Django&logoColor=white)|![](https://img.shields.io/badge/JavaScript-F7931E?style=for-the-badge&logo=JavaScript&logoColor=white)|![](https://img.shields.io/badge/Postgresql-D00000?style=for-the-badge&logo=Postgresql&logoColor=white)|![](https://img.shields.io/badge/HTML5-F37626.svg?&style=for-the-badge&logo=HTML5&logoColor=white)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/CSS-342B029.svg?&style=for-the-badge&logo=CSS&logoColor=white)|![](https://img.shields.io/badge/DRF-2C2D72?style=for-the-badge&logo=DRF&logoColor=white)|![](https://img.shields.io/badge/Linux-777BB4?style=for-the-badge&logo=Linux&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/CSS3-342B029.svg?&style=for-the-badge&logo=CSS3&logoColor=white)|![](https://img.shields.io/badge/DRF-2C2D72?style=for-the-badge&logo=DRF&logoColor=white)|![](https://img.shields.io/badge/Linux-777BB4?style=for-the-badge&logo=Linux&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
 
 <Br>
