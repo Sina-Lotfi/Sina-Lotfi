@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Sina <img src="https://slackmojis.com/emojis/3438-python" width=50>
+### Hi there, I'm Sina <img src="https://slackmojis.com/emojis/10747-link/download" width=50>
 Interested in learning Linux, Python, and everything else related to computers 🍾
 
 currently, I'm a backend engineer 🦕🤝
